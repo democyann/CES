@@ -20,4 +20,5 @@ return array(
 	
 	//调试设置
 	'SHOW_PAGE_TRACE' =>true,		//开启页面调试
+	
 );
